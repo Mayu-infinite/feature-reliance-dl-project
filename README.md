@@ -5,6 +5,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2509.20234-b31b1b.svg)](https://arxiv.org/abs/2509.20234)
 [![Original Repo](https://img.shields.io/badge/Original%20Repo-tomburgert%2Ffeature--reliance-blue)](https://github.com/tomburgert/feature-reliance)
 
+**Project video:** https://youtu.be/6FiKQFBMZkE
+
 **Course:** CSL4020 Deep Learning — Project (2026) 
 
 ---
